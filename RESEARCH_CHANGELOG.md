@@ -1,0 +1,28 @@
+# Research Changelog
+
+- **v1.0.0 — Inisiasi & Fondasi Taksonomi (Tahap 1)**:
+  - Validasi ruang lingkup global 2023–November 2026 dengan penambahan 7 dimensi rekayasa kontemporer.
+  - Penyusunan peta ekosistem global 8 domain dan peta jalan 19 modul.
+  - Penyelesaian `Module 00 — Research Index & Executive Overview` dan `Module 01 — Global Laptop Taxonomy`.
+- **v1.1.0 — Ekosistem Manufaktur & ODM (Tahap 2)**:
+  - Penyelesaian `Module 02 — Manufacturers & Product Ecosystems` (analisis OEM vs ODM, restrukturisasi Dell & HP 2025/2026, OEM Linux-first/modular, dan pasar Indonesia).
+- **v1.2.0 — Ensiklopedia Arsitektur Prosesor & Silikon (Tahap 3–6)**:
+  - Penyelesaian `Module 03 — CPU & Processor Architecture`.
+  - Penyelesaian `Module 04 — Intel Processor Encyclopedia` (Core Gen 13/14 hingga Core Ultra Series 3 Panther Lake Intel 18A).
+  - Penyelesaian `Module 05 — AMD Processor Encyclopedia` (Ryzen 7000/8000/200, Ryzen AI 300, Ryzen AI Max Strix Halo, Ryzen 9000HX Fire Range).
+  - Penyelesaian `Module 06 — ARM & Alternative Processor Platforms` (Qualcomm Snapdragon X/X2, Apple Silicon M3–M5, MediaTek, HiSilicon, Loongson, Zhaoxin, Phytium, RISC-V).
+- **v1.3.0 — Grafis, NPU, & Subsistem Perangkat Keras (Tahap 7–10)**:
+  - Penyelesaian `Module 07 — GPU Encyclopedia` (NVIDIA RTX 40/50 GDDR7, AMD RDNA 3/3.5 & 8060S, Intel Arc Xe/Xe2/Xe3, TGP, MUX Switch).
+  - Penyelesaian `Module 08 — NPU & AI Computing` (presisi numerik, kuantisasi, hukum Roofline, Copilot+ PC, pemetaan beban kerja).
+  - Penyelesaian `Module 09 — Memory, Storage & Connectivity` (DDR5, LPDDR5X, LPCAMM2, Memory Rank, NAND SLC–QLC, USB4 v2/TB5, OCuLink, Wi-Fi 7).
+  - Penyelesaian `Module 10 — Display, Battery & Thermal Engineering` (Tandem OLED, Mini-LED, PWM, baterai Wh, USB-PD 3.1 EPR, vapor chamber, PTM7950).
+- **v1.4.0 — Perangkat Inovatif, Rekayasa Performa, & Linux (Tahap 11–13)**:
+  - Penyelesaian `Module 11 — Specialized & Emerging Laptop Devices`.
+  - Penyelesaian `Module 12 — Laptop Performance Engineering`.
+  - Penyelesaian `Module 13 — Linux Compatibility & Gaming`.
+- **v1.5.0 — Aplikasi Praktis, Komparasi, Skenario, & Penutup (Tahap 14–18)**:
+  - Penyelesaian `Module 14 — Specification Interpretation`.
+  - Penyelesaian `Module 15 — Cross-Platform Comparison & Decision Framework`.
+  - Penyelesaian `Module 16 — Personalized Scenario Analysis` (termasuk bedah mendalam All-AMD dan pasar Indonesia IDR).
+  - Penyelesaian `Module 17 — Glossary & Technical Reference`.
+  - Penyelesaian `Module 18 — Research Coverage Audit` dan pengemasan arsip repositori lengkap.
